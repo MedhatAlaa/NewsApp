@@ -47,13 +47,13 @@ News App Project you can Know the news in differnt topic like Science,Sports,Bus
 <table width="100%">
   <tr>
     <td width="33.3%" align="center">
-      Home
+      News
     </td>
         <td width="33.3%" align="center">
-         Services
+         News
     </td>
     <td width="33.3%" align="center">
-        Store details 
+        News  
     </td>
 
   </tr>
@@ -66,13 +66,13 @@ News App Project you can Know the news in differnt topic like Science,Sports,Bus
 
    <tr>
     <td width="33.3%" align="center">
-       Home  
+       News  
     </td>
         <td width="33.3%" align="center">
-      Services 
+      News 
     </td>
         <td width="33.3%" align="center">
-      Store details
+       News
     </td>
   </tr>
    <tr>
